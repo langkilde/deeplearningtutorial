@@ -21,7 +21,11 @@ There are lots of places where you can find instructions to installing these too
 **5. Open a Jupyter Notebook and print "Hello World!"**
 
 Result should look like this:
+<br>
 <img align="left" src="https://github.com/langkilde/deeplearningtutorial/blob/master/example_1.png">
+<br>
 
 **6. Install Keras with Tensorflow backend**
+
 Instructions can be found [here](https://keras.io/#installation).
+
