@@ -29,3 +29,15 @@ Result should look like this:
 
 Instructions can be found [here](https://keras.io/#installation).
 
+**7. Test complete installation**
+
+Run the following piece of code in the notebook
+
+```
+import numpy
+from keras import backend as K
+from keras.datasets import mnist
+from keras.utils import np_utils
+```
+The output should not throw any errors, just return something like this:
+<img align="left" src="https://github.com/langkilde/deeplearningtutorial/blob/master/example_2.png">
