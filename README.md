@@ -29,11 +29,11 @@ Result should look like this:
 
 Instructions can be found [here](https://keras.io/#installation).
 
-### 7. Test complete installation**
+### 7. Test complete installation
 
 Run the following piece of code in the notebook
 
-```
+```python
 import numpy
 from keras import backend as K
 from keras.datasets import mnist
