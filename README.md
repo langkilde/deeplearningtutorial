@@ -2,7 +2,7 @@
 
 ## Getting started
 
-**#### 1. Install git**
+#### 1. Install git
 
 Instructions for Windows can be [found here.](https://www.atlassian.com/git/tutorials/install-git#windows)
 
