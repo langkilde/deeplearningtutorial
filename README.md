@@ -41,3 +41,8 @@ from keras.utils import np_utils
 ```
 The output should not throw any errors, just return something like this:
 <img align="left" src="https://github.com/langkilde/deeplearningtutorial/blob/master/example_2.png">
+
+### 8. Unzip training data
+
+In the cloned repository you can find ```digit-recognizer.zip```. Unzip this bundle in the same folder. This will result in a folder that looks like this:
+<img align="left" src="https://github.com/langkilde/deeplearningtutorial/blob/master/example_3.png">
