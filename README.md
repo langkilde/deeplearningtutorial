@@ -41,6 +41,8 @@ from keras.utils import np_utils
 ```
 The output should not throw any errors, just return something like this:
 <img align="left" src="https://github.com/langkilde/deeplearningtutorial/blob/master/example_2.png">
+<br>
+<br>
 
 ### 8. Unzip training data
 
