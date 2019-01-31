@@ -23,4 +23,5 @@ There are lots of places where you can find instructions to installing these too
 Result should look like this:
 <img align="left" src="https://github.com/langkilde/deeplearningtutorial/blob/master/example_1.png">
 
-
+**6. Install Keras with Tensorflow backend**
+Instructions can be found [here](https://keras.io/#installation).
