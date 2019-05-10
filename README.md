@@ -22,22 +22,31 @@ There are lots of places where you can find instructions to installing these too
 
 Result should look like this:
 <br>
-<img align="left" src="https://github.com/langkilde/deeplearningtutorial/blob/master/example_1.png">
+<img align="center" src="https://github.com/langkilde/deeplearningtutorial/blob/master/example_1.png">
 <br>
 
 ### 6. Install Keras with Tensorflow backend
 
 Instructions can be found [here](https://keras.io/#installation).
 
-### 7. Test complete installation**
+### 7. Test complete installation
 
 Run the following piece of code in the notebook
 
-```
+```python
 import numpy
 from keras import backend as K
 from keras.datasets import mnist
 from keras.utils import np_utils
 ```
 The output should not throw any errors, just return something like this:
-<img align="left" src="https://github.com/langkilde/deeplearningtutorial/blob/master/example_2.png">
+<img align="center" src="https://github.com/langkilde/deeplearningtutorial/blob/master/example_2.png">
+<br>
+<br>
+
+### 8. Unzip training data
+
+In the cloned repository you can find ```digit-recognizer.zip```. Unzip this bundle in the same folder. This will result in a folder that looks like this:
+<img align="center" src="https://github.com/langkilde/deeplearningtutorial/blob/master/example_3.png">
+
+### 9. Now we will start with the deep learning part!
